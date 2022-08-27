@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayooh509
 - 👀 I’m interested in reactjs/react-native
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on @birladotech
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me logeadorcinmf@gmail.com
 
 <!---
